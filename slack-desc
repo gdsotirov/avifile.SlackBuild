@@ -1,0 +1,12 @@
+avifile: avifile 0.7.43 (2004-10-01)
+avifile:
+avifile: Avi player and sample applications.
+avifile:
+avifile:
+avifile: ---
+avifile: Package build by Georgi D. Sotirov <gdsotirov@dir.bg>
+avifile: Configure command: ./configure --prefix=/usr/local \
+avifile:                                --enable-lame \
+avifile:                                --enable-x86opt
+avifile: Build date: 2005-03-16 20:00 EET
+avifile:
