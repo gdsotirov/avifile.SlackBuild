@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Aviplay
+Exec=aviplay
+Terminal=false
+Type=Application
+MimeType=video/x-msvideo
+Categories=Application;AudioVideo;

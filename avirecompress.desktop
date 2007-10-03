@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Avirecompress
+Exec=avirecompress
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
