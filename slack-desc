@@ -1,12 +1,11 @@
-avifile: avifile 0.7.43 (2004-10-01)
+avifile: avifile (Linux AVI file library)
 avifile:
-avifile: Avi player and sample applications.
+avifile: AVI file is a library that allows you to read and write compressed
+avifile: AVI files (Indeo Video, DivX, Xvid, etc.) on x86 Linux systems.
+avifile: (De)compression is performed with Win32 DLLs, which are not
+avifile: included. This pacakge includes also AVI player, a V4L-compatible
+avifile: capture program and simple AVI recompression tool.
 avifile:
 avifile:
-avifile: ---
-avifile: Package build by Georgi D. Sotirov <gdsotirov@dir.bg>
-avifile: Configure command: ./configure --prefix=/usr/local \
-avifile:                                --enable-lame \
-avifile:                                --enable-x86opt
-avifile: Build date: 2005-03-16 20:00 EET
+avifile: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
 avifile:
